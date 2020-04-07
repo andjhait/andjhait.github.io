@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.css"],"names":[],"mappings":"AAAA,WACE,oBAAqB,CACrB,eAAiB,CACjB,eAAgB,CAChB,oDACF","file":"main.b7e92f68.chunk.css","sourcesContent":["@font-face{\n  font-family: \"Gilroy\";\n  font-weight: bold;\n  font-style: bold;\n  src: url('../../assets//fonts/Gilroy-ExtraBold.ttf')\n}"]}

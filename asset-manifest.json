@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7e92f68.chunk.css",
+    "main.js": "/static/js/main.c94d13cf.chunk.js",
+    "main.js.map": "/static/js/main.c94d13cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.914fab86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.914fab86.js.map",
+    "static/js/2.73c50fff.chunk.js": "/static/js/2.73c50fff.chunk.js",
+    "static/js/2.73c50fff.chunk.js.map": "/static/js/2.73c50fff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9783ccd8efddedc9ce41225f6b93d08.js": "/precache-manifest.e9783ccd8efddedc9ce41225f6b93d08.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b7e92f68.chunk.css.map": "/static/css/main.b7e92f68.chunk.css.map",
+    "static/js/2.73c50fff.chunk.js.LICENSE.txt": "/static/js/2.73c50fff.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/Gilroy-ExtraBold.69cf4661.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914fab86.js",
+    "static/js/2.73c50fff.chunk.js",
+    "static/css/main.b7e92f68.chunk.css",
+    "static/js/main.c94d13cf.chunk.js"
+  ]
+}
