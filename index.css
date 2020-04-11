@@ -34,6 +34,9 @@
 .margin-double{
   margin-top: 30px
 }
-.checkbox svg path {
-  fill: #FE784B
+.checkbox svg path{
+  fill: #53C1DE
+}
+svg #upload path{
+  fill: #000
 }
